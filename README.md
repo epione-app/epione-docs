@@ -2,5 +2,5 @@
 
 ## Prototype Designs
 
-![Brandon's design 24/05/19](https://github.com/epione-app/epione-docs/blob/master/epione-notes.png)
+<img src="https://github.com/epione-app/epione-docs/blob/master/epione-notes.png" width="500" />
 Brandon's prototype 1 - 24/05/19
